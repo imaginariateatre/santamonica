@@ -8,11 +8,40 @@
 }
 
 body{
+  background: white;
+}
+
+.capsalera{
+  background-color: black;
+  height: 5em;
+  padding-left: 3em;
+  padding-top: 1em;
+}
+
+.buttons li{
+  display: inline-block;
+  margin: 0.5em;
+  padding: 1em;
+}
+
+.buttons li a{
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  padding: 1em;
+}
+
+.flex-container{
   height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #1D212B;
+}
+
+.information-block{
+  width: 100%;
+  margin: 1em;
+  padding: 1em;
 }
 
 .img-slider{
