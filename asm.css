@@ -13,8 +13,16 @@ body{
 .capsalera{
   background-color: black;
   height: 5em;
-  padding-left: 3em;
+  padding-left: 2vw;
   padding-top: 1em;
+}
+
+.information-block{
+  padding-left: 2vw;
+  padding-right: 2vw;
+  padding-top: 1em;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .buttons li{
@@ -27,11 +35,5 @@ body{
   background-color: black;
   color: white;
   text-decoration: none;
-  padding: 1em;
-}
-
-.information-block{
-  width: 100%;
-  margin: 1em;
   padding: 1em;
 }
