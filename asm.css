@@ -37,3 +37,13 @@ body{
   text-decoration: none;
   padding: 1em;
 }
+
+.info-artista {
+  text-align: center;
+  padding-top: 1vh;
+}
+
+.info-artista img {
+  width : 3vh;
+  height: 3vh;
+}
