@@ -5,9 +5,20 @@
 }
 
 body{
-  background: white;
   margin: 0px;
   padding: 0px;
+}
+
+.content .fotos {
+  width: 100vw;
+}
+
+.idioma {
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  padding: 1em;
+  margin: 0px;
 }
 
 .capsalera{
@@ -23,6 +34,12 @@ body{
   padding-top: 1em;
   text-align: justify;
   text-justify: inter-word;
+}
+
+.information-block pre {
+  padding: 0px;
+  width: 100vh;
+  margin: 0px;
 }
 
 .buttons li{
