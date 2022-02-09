@@ -13,5 +13,6 @@ return array(
     'ortiz' => array( 'nom' => 'Agustín Ortiz Herrera / Gnosi il·luminada', 'url' => 'https://artssantamonica.gencat.cat/ca/detall/Gnosi-illuminada'),
     'rikic' => array( 'nom' => 'Mónica Rikić / Metamàquina', 'url' => 'https://artssantamonica.gencat.cat/ca/detall/Metamaquina'),
     'salva' => array( 'nom' => 'Xesca Salvà / Un cos incoherent', 'url' => 'https://artssantamonica.gencat.cat/ca/detall/Un-cos-incoherent'),
-    'soto' => array( 'nom' => 'Montserrat Soto / Dato Primitivo', 'url' => 'https://artssantamonica.gencat.cat/ca/detall/Dato-Primitivo')
+    'soto' => array( 'nom' => 'Montserrat Soto / Dato Primitivo', 'url' => 'https://artssantamonica.gencat.cat/ca/detall/Dato-Primitivo'),
+    'rastres' => array( 'nom' => 'Rastres de En Construcció', 'url' => 'https://artssantamonica.gencat.cat')
 );
